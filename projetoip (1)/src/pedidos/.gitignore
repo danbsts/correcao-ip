@@ -1,0 +1,15 @@
+/CadastroPedidos.class
+/Cliente.class
+/Funcionario.class
+/PedidoJaExistenteException.class
+/PedidoNaoEncontradoException.class
+/Pedidos.class
+/PedidosException.class
+/RepositorioPedidos.class
+/RepositorioPedidosArray.class
+/RepositorioPedidosLista.class
+<<<<<<< HEAD
+/valorInvalidoException.class
+/ValorInvalidoException.class
+=======
+>>>>>>> 07333c7b3a52f7fa74f7682045a0d77c415d52bc
